@@ -5,6 +5,6 @@ public class User{
         System.out.println("smbms2修改");
         System.out.println("smbms2再次修改");
         System.out.println("host fix。。。。。。。");
-        
+        System.out.println("更新 host fix。。。。。。。");
     }
 }
